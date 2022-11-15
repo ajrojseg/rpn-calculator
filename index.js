@@ -1,5 +1,5 @@
-import { rpnCalculator } from "./app.js";
-import * as CONSTANTS from "./constants.js";
+import { rpnCalculator } from "./src/app.js";
+import * as CONSTANTS from "./src/constants.js";
 
 (function () {
   console.log(CONSTANTS.TITLE);

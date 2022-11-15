@@ -7,9 +7,7 @@ export const TITLE = "RPN CALCULATOR";
 export const INSTRUCTIONS_TITLE = "Instructions";
 export const INSTRUCTIONS = `
   Unlike with a traditional calculator, you enter the parameters first, then the operator.
-  For example, to calculate "20+50": type 
-  "20"
- -> Press Enter -> "50" -> Press"+"
+  For example, to calculate "20+50": type "20" -> Press Enter -> "50" -> Press "+"
 
 `;
 
